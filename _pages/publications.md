@@ -27,5 +27,5 @@ redirect_from:
 
 ## Posters
 
-1. Pranav Joshi$\*$, Manideep Mamindlapally$\*$, **Anuj Kumar Yadav**$\*$, Amitalok J. Budkuley and Manoj Mishra, "Commitment over Unreliable Channels, 2021 IEEE ISIT Recent Results, Melbourne, Australia.
-  ($\*$ : Equal contributions)
+1. Pranav Joshi$\dagger$, Manideep Mamindlapally$\dagger$, **Anuj Kumar Yadav**$\dagger$, Amitalok J. Budkuley and Manoj Mishra, "Commitment over Unreliable Channels, 2021 IEEE ISIT Recent Results, Melbourne, Australia.
+  ($\dagger$ : Equal contributions)
