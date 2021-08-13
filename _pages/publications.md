@@ -28,4 +28,4 @@ redirect_from:
 ## Posters
 
 1. Pranav Joshi<sup>$\dagger$</sup>, Manideep Mamindlapally<sup>$\dagger$</sup>, **Anuj Kumar Yadav**<sup>$\dagger$</sup>, Amitalok J. Budkuley and Manoj Mishra, "Commitment over Unreliable Channels, 2021 IEEE ISIT Recent Results, Melbourne, Australia.<br/>
-  (${\dagger$ : Equal contributions)
+  ($\dagger$ : Equal contributions)
