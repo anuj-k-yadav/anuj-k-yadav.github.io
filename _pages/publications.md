@@ -12,7 +12,6 @@ redirect_from:
 
 
 
-## 1. Ankur Pandey, **Piyush Tiwary**, Sudhir Kumar and Sajal K Das, "Adaptive Mini-Batch Gradient Ascent based Localization for Indoor IoT Networks under Rayleigh Fading ##Conditions", in IEEE Internet of Things Journal, Vol. 8, No. 13, pp. 10665-10677, July 2021, DOI: 10.1109/JIOT.2020.3047982. (IF: 9.936, h5-Index: 93) [PDF]##33(https://ieeexplore.ieee.org/document/9310318)
 
 ## Conferences
 
