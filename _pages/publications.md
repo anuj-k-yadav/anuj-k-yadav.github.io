@@ -25,6 +25,6 @@ redirect_from:
 
 1. Manideep Mamindlapally, **Anuj Kumar Yadav**, Manoj Mishra and Amitalok J. Budkuley, "Commitment Capacity Under Cost Constraints", 2021 IEEE International Symposium on Information Theory (ISIT), Melbourne Australia.
 
-## Posters
+
 
 
