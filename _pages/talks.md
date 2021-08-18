@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Poster Presentations
+## Posters 
 
 1. **Anuj Kumar Yadav**, "Rate Positivity for Arbitrarily Varying Channels", 2021 Croucher Summer Course in Information Theory (CSCIT), CUHK, Hongkong. <br/>
 
@@ -17,5 +17,4 @@ author_profile: true
   ($\dagger$ : Equal contributions)<br/>
  
  ## Talks
-
 
