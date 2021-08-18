@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Projects"
-permalink: /projects/
+permalink: /Research/
 author_profile: true
 redirect_from:
   - /projects
