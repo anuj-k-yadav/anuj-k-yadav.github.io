@@ -9,7 +9,7 @@ author_profile: true
 
 ## Posters 
 
-1. **Anuj Kumar Yadav**, "Rate Positivity for Arbitrarily Varying Channels", 2021 Croucher Summer Course in Information Theory (CSCIT), CUHK, Hongkong. <br/>
+1. **Anuj Kumar Yadav**, "Rate Positivity for Arbitrarily Varying Channels", 2021 Croucher Summer Course in Information Theory (CSCIT), CUHK, Hong kong. <br/>
 
 2. **Anuj Kumar Yadav** and Manideep Mamindlapally, "Role of Costs in Commitment over Noisy Channels", 2021 IEEE North American School in Information Theory (NASIT), UBC, Canada.<br/>
 
